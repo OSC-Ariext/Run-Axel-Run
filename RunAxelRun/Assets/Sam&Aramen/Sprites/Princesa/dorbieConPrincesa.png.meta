@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: ffe7f127192b47446966881c2036f9ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5427992269333020249
+    second: dorbieConPrincesa_0
+  - first:
+      213: 2996717428311007321
+    second: dorbieConPrincesa_1
+  - first:
+      213: -490512293085464227
+    second: dorbieConPrincesa_2
+  - first:
+      213: -4706228899720825814
+    second: dorbieConPrincesa_3
+  - first:
+      213: 4753255689072065250
+    second: dorbieConPrincesa_4
+  - first:
+      213: 6815247538145323788
+    second: dorbieConPrincesa_5
+  - first:
+      213: -7225766624745930218
+    second: dorbieConPrincesa_6
+  - first:
+      213: -7802526798082121747
+    second: dorbieConPrincesa_7
+  - first:
+      213: -272287257841608022
+    second: dorbieConPrincesa_8
+  - first:
+      213: -4676570673255512408
+    second: dorbieConPrincesa_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 25
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dorbieConPrincesa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 316
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ff58ad43f8f3847b42d4d57172f864
+      internalID: -5427992269333020249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorbieConPrincesa_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 425
+        width: 317
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0079cb10ccaf57c4389aa870ad9a8714
+      internalID: 2996717428311007321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorbieConPrincesa_2
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 431
+        width: 316
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daee24d710b7eab4ea336d4a5a0665ba
+      internalID: -490512293085464227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorbieConPrincesa_3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 426
+        width: 319
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee07704360d10834687f2e37a3c02bf8
+      internalID: -4706228899720825814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorbieConPrincesa_4
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 23
+        width: 205
+        height: 220
+      alignment: 9
+      pivot: {x: 0.52681774, y: 0.56443703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8838f6801f6cd745a214f5a88b962ec
+      internalID: 4753255689072065250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorbieConPrincesa_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 240
+        height: 301
+      alignment: 9
+      pivot: {x: 0.56627804, y: 0.502202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75995ce7322bbd4cb3e6a6b248fcbd4
+      internalID: 6815247538145323788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorbieConPrincesa_6
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 241
+        height: 302
+      alignment: 9
+      pivot: {x: 0.5677999, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d429aa36b74ad674da0b8859860c5dad
+      internalID: -7225766624745930218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorbieConPrincesa_7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 210
+        height: 302
+      alignment: 9
+      pivot: {x: 0.5056111, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6073af8f17e6ba7418eb9e5beefb6082
+      internalID: -7802526798082121747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorbieConPrincesa_8
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 11
+        width: 320
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0013583c66c9d0e4f8a65261e92d8d3f
+      internalID: -272287257841608022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorbieConPrincesa_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 8
+        width: 311
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1db84aa2ceba344ab9fe79b356680c
+      internalID: -4676570673255512408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: be9d01e47b8f8994f8a02b98d3643f05
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
